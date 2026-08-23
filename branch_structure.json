@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/518-batch-retire-failure-reporting",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/518-batch-retire-failure-reporting": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/518-batch-retire-failure-reporting",
+    "origin"
+  ]
+}
